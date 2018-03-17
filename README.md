@@ -1,17 +1,13 @@
 # Hackathon Introduction
 
+https://citydatahack.github.io/HackathonIntroduction/
+
 Using revealjs.
 
 OVERVIEW
 
-- Pre-hackathon
-   - Make sure you have a GitHub account (its free & easy to setup)
-   - Team repo will be created for you with full admin access under the hackathon organisation
-   - Repo will have issue / ticket section, project board (similar to Trello), wiki
-- Open Source
 - GitHub
-- Tips
-
+- Hackathon Tips
 
 ---
 
